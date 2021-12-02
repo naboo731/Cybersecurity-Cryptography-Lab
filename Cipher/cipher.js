@@ -10,7 +10,7 @@ for (let i = 0; i < phrase.length; i++){
     return solution
 }
 
-console.log(cipher("I love cryptography"))
+console.log(cipher("I love cryptography!"))
 
 const decipher = (phrase) => {
     let key = 4
@@ -22,5 +22,5 @@ for (let i = 0; i < phrase.length; i++){
     return solution
 }
 
-console.log(decipher(cipher("I love cryptography")))
+console.log(decipher(cipher("I love cryptography!")))
 

@@ -3,4 +3,4 @@ Open up a text editor and create your very own cipher. State all the logic behin
 Take this one step further and create your cipher in code.
 
 Cipher: 
-Using the character code set, each letter in a phrase will be converted to their corresponding number. Then 4 will be added to each number with wrapping from z to a. 
+Using the character code set, each letter in a phrase will be converted to their corresponding number. Then 4 will be added to each corresponding number. 
